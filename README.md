@@ -14,11 +14,13 @@ npm i mintme-sdk
 
 ### 2. Generate `wallet.json`
 
-The `wallet.json` file is essential for interacting with the blockchain. You can generate it by running the following command:
+The `wallet.json` file is essential for interacting with the blockchain. You can generate it by running the following. Update `tests/create-wallet-json.js` and put your private key in the file and run this command:
 
 ```bash
 node tests/create-wallet-json.js
 ```
+
+Never share your private key and wallet.json.
 
 ### 3. Create a Token
 
