@@ -1,0 +1,1 @@
+# mintme-easy-node-example
