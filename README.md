@@ -4,6 +4,12 @@ This repository provides a simple example for interacting with the MintMe SDK to
 
 ## Steps to Get Started
 
+
+### Bonus: Run example code in Codesandbox.io 💡
+You can run this code directly in Codesandbox.io in your own virtual machine.
+- **Codesandbox.io Template Mintme Node Example**: [[codesandbox.io/p/devbox/template...](https://codesandbox.io/p/devbox/template-mintme-easy-node-example-hgpt49)](https://codesandbox.io/p/devbox/template-mintme-easy-node-example-hgpt49)
+
+  
 ### 1. Install the MintMe SDK
 
 First, install the MintMe SDK in your project using npm:
