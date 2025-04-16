@@ -30,6 +30,22 @@ After generating the `wallet.json`, you can proceed to create a token by using t
 node tests/test-create-token-simple.js
 ```
 
+### Result token mint
+
+```json
+{
+  "success": true,
+  "mint": "9oQ7p64wbgCSTutrJYvELSEHvnYjxknjRsUUcucLWeWn",
+  "tokenAccount": "4naaCDoc2rMr3RXytWpfngPdhWbwq5bsfa3CxewKFP2W",
+  "metadata": "CRkWpoDEUmTqVt8Thfn8dzkeFfELzBhkhtJ1PMkjSEih",
+  "txSignature": "44jYnKZWK26QLwcreGe8ww7zKrSPivGinj8vWeYqF6BQopJQi3Uy3MhUosnHQTSj1fjs4yv6jXP8ftxz9e6jPfhu",
+  "tokenName": "MTM",
+  "tokenSymbol": "MTM",
+  "freezeRevoked": true,
+  "freezeRevokeTx": "2AaTZapdS9bKeY3gcuC9b9a3euidXmVJ65VAPrdoHbLgHJ3X14WUmwcf7bJnEBJWgooHNxbUgGxkjgUiHdchT1WD"
+}
+```
+
 ### Customization
 
 #### 1. Change the `walletPath`
