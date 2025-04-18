@@ -33,7 +33,7 @@ Never share your private key and wallet.json.
 After generating the `wallet.json`, you can proceed to create a token by using the following command:
 
 ```bash
-node tests/test-create-token-simple.js
+node tests/create-token-simple.js
 ```
 
 ### Result token mint
