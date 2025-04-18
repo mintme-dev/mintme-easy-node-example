@@ -19,6 +19,8 @@ async function main() {
       uri: "https://ipfs.mintme.dev/metadata.json",
       revokeMint: true,
       revokeFreeze: true,
+      partnerWallet: new PublicKey("_YOUR_WALLET_HERE_"),
+      partnerAmount: 0.1,
       walletPath: "./wallet.json",
       connection: "https://api.devnet.solana.com",
       cluster: "devnet",
