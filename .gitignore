@@ -1,2 +1,6 @@
 wallet.json
 node_modules
+.codesandbox
+.devcontainer
+yarn.lock
+index.js
