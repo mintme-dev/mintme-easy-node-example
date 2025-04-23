@@ -2,19 +2,16 @@
 
 <img width="600" alt="create-token-simple-" src="https://github.com/user-attachments/assets/1f566bba-a72c-4e83-9400-bfe6bfe75f21" />
 
-
 This repository provides a simple example for interacting with the MintMe SDK to perform basic operations such as generating a `wallet.json`, creating a token, and customizing settings. This example is designed to be user-friendly and customizable for different environments.
-
-
 
 ## Steps to Get Started
 
-
 ### Bonus: Run example code in Codesandbox.io 💡
+
 You can run this code directly in Codesandbox.io in your own virtual machine.
+
 - **Codesandbox.io Template Mintme Node Example**: [https://codesandbox.io/p/devbox/template-mintme-easy-node-example-hgpt49](https://codesandbox.io/p/devbox/template-mintme-easy-node-example-hgpt49)
 
-  
 ### 1. Install the MintMe SDK
 
 First, install the MintMe SDK in your project using npm:
@@ -25,10 +22,10 @@ npm i mintme-sdk
 
 ### 2. Generate `wallet.json`
 
-The `wallet.json` file is essential for interacting with the blockchain. You can generate it by running the following. Update `tests/create-wallet-json.js` and put your private key in the file and run this command:
+The `wallet.json` file is essential for interacting with the blockchain. You can generate it by running the following. Update `create-wallet-json.js` and put your private key in the file and run this command:
 
 ```bash
-node tests/create-wallet-json.js
+node create-wallet-json.js
 ```
 
 Never share your private key and wallet.json.
@@ -38,7 +35,7 @@ Never share your private key and wallet.json.
 After generating the `wallet.json`, you can proceed to create a token by using the following command:
 
 ```bash
-node tests/create-token-simple.js
+node create-token-simple.js
 ```
 
 ### Result token mint
