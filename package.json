@@ -2,6 +2,6 @@
   "name": "mintme-easy-node-example",
   "version": "1.0.1",
   "dependencies": {
-    "mintme-sdk": "^1.1.13"
+    "mintme-sdk": "^1.2.3"
   }
 }
