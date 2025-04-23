@@ -1,6 +1,11 @@
-# MintMe Easy Node Example
+# Create a Token in Solana easy with Node JS
+
+<img width="600" alt="create-token-simple-" src="https://github.com/user-attachments/assets/1f566bba-a72c-4e83-9400-bfe6bfe75f21" />
+
 
 This repository provides a simple example for interacting with the MintMe SDK to perform basic operations such as generating a `wallet.json`, creating a token, and customizing settings. This example is designed to be user-friendly and customizable for different environments.
+
+
 
 ## Steps to Get Started
 
